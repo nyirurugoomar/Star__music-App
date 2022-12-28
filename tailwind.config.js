@@ -10,18 +10,21 @@ module.exports = {
       
      }),
     
-    // fontSize: {
-    //   sm: '0.8rem',
-    //   base: '1rem',
-    //   xl: '1.25rem',
-    //   xxl:'64px',
-    //   36:'36px',
-    //   32:'30px',
-    //   20:'20px',
-    //   15:'15px',
+    fontSize: {
+      sm: '0.8rem',
+      base: '1rem',
+      xl: '1.25rem',
+      xxl:'64px',
+      36:'36px',
+      30:'30px',
+      20:'20px',
+      15:'15px',
+      70:'70px',
+      50:'50px',
+      10:'10px',
       
       
-    // },
+    },
 
     
     
@@ -47,15 +50,17 @@ module.exports = {
 
     // },
     
-    // colors:{
-    //   grass:'#2ecc71',
-    //   black_light:'#2c3e50',
-    //   orange:'#F97316',
-    //   black:'#000000',
-    //   white:'#FFFFFF',
+    colors:{
+      grass:'#2ecc71',
+      black_light:'#2c3e50',
+      orange:'#F97316',
+      black:'#000000',
+      white:'#FFFFFF',
+      yellow:'#f1c40f',
+      bg_mobile:'./assets/hero_img.png',
       
 
-    // },
+    },
     
   },
   plugins: [],

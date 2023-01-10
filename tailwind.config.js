@@ -9,6 +9,10 @@ module.exports = {
       'primary': '#000000',
       
      }),
+     borderRadius: {
+      lg:'40px',
+      full: '9999px',
+     },
     
     fontSize: {
       sm: '0.8rem',

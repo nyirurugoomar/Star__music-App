@@ -5,6 +5,7 @@ import Madeforyou from './components/Madeforyou';
 import Mobileapp from './components/Mobileapp';
 import Moments from './components/Moments';
 import Listerning from './components/Listerning';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
     <Mobileapp/>
     <Moments/>
     <Listerning/>
+    <Footer/>
     </>
   );
 }

@@ -3,7 +3,7 @@ import mobile_img from '../assets/app_image.png'
 
 function Mobileapp() {
   return (
-    <div className="w-full h-screen  flex flex-col justify-between bg-yellow ">
+    <div className="w-full h-screen  flex flex-col justify-between bg-yellow rounded-r-full ">
         <div className='grid md:grid-cols-2 max-w-[1240px] m-auto mb-10 mt-10'>
         <div>
                 <img className='w-full px-10 ' src={mobile_img}alt='/'/>

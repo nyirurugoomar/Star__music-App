@@ -6,7 +6,7 @@ import twitter from '../assets/twitter.png'
 function Footer() {
   return (
     <>
-        <div className='w-full h-100    flex-col justify-between mt-16  bg-black rounded-t-lg '>
+        <div className='w-full h-100    flex-col justify-between mt-16  bg-footer-bg bg-cover  '>
         
             
         <div className='grid grid-cols-1 lg:grid-cols-3  gap-x-8 gap-y-4  pt-8 sm:pt-20  '>

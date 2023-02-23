@@ -4,6 +4,10 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
+    backgroundImage:{
+      'footer-bg':"url('/Users/Omar/Desktop/react-projects/Star music/star-music/star_music-app/Star__music-App/src/assets/footer background.png')"
+
+    },
     backgroundColor: theme => ({
       ...theme('colors'),
       'primary': '#000000',
@@ -33,6 +37,7 @@ module.exports = {
     
     
     screens: {
+      smm: '360',
       sm: '640px',
       // => @media (min-width: 640px) { ... }
 

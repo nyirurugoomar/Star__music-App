@@ -9,8 +9,8 @@ function Hero() {
 
         
          
-           <div className='flex flex-col justify-center md:items-start w-full px-10 py-10 '>
-                <h1 className='font-bold text-70 '>Discover your way everywhere</h1>
+           <div className='flex flex-col justify-center md:items-start w-full px-10 py-10 smm:w-full '>
+                <h1 className='font-bold  text-70   '>Discover your way everywhere</h1>
                 <p className='text-20 font-light'>It's never been easier to find the best music and podcasts.</p>
                     
            </div>
